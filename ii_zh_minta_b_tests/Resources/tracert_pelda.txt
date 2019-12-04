@@ -1,0 +1,15 @@
+
+Tracing route to google.com [172.217.19.110]
+over a maximum of 30 hops:
+
+  1     2 ms     3 ms    <1 ms  router1.lan [192.168.0.1]
+  2     3 ms     6 ms     6 ms  10.0.0.1
+  3     *        *        *     Request timed out.
+  4     7 ms     6 ms    10 ms  xe-7-2-1.cr02.budapest.digicable.hu [78.131.4.136]
+  5     6 ms     3 ms     7 ms  te-0-1-0-4.xr01.budapest.digicable.hu [94.21.3.85]
+  6     6 ms     6 ms     5 ms  as15169.peering.digicable.hu [94.21.255.2]
+  7     4 ms     5 ms     6 ms  74.125.242.225
+  8     5 ms     6 ms     6 ms  209.85.255.243
+  9     5 ms     6 ms     7 ms  bud02s27-in-f14.1e100.net [172.217.19.110]
+
+Trace complete.
